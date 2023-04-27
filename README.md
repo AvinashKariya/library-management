@@ -16,6 +16,8 @@ Also we've displayed a statastic portion,too in which we've displayed data about
 - [@AvinashKariya](https://github.com/AvinashKariya)
 - [@mandeepsinh77](https://github.com/Mandeepsinh77)
 
+## .exe file line
+- [Click Here](https://drive.google.com/file/d/1Yak-MdLhLDp8qfoJs4owVaE7EtSgbS-8/view?usp=share_link)
 ## Support
 
 For support, email avinashkariya05910@gmail.com
